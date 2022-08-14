@@ -11,7 +11,7 @@ A pyhton library which can use for various purposes. If you want to access googl
 Example like "Hey Alexa, Play country roads " When you give command like that this library will help you to find that song and play for yoou. You can find it here.
 (https://pypi.org/project/pywhatkit/)
 
-pyjokes - A pyhton library which contains funny jokes. I added this one as a optional. It will give a random joke when you execute it.
+pyjokes - A pyhton library which contains funny jokes. I added this one as a optional. It will give a random joke when you execute it. (https://pypi.org/project/pyjokes/)
 
 You can add more funny conditions and try to impress your friends saying that now I know how to make an Alexa :).
 
